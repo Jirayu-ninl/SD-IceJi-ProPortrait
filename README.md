@@ -16,7 +16,7 @@ Just only short prompt and you will get a realistic portrait photo. Let you focu
 * **Prompt:**
   Try to **start with** `(skindentation:1.2), (realistic:1.1), best quality, photorealistic, ...`
   **Negative:** `lowres, normal quality, ((monochrome)), ((grayscale)), BadHand v4`
-* **Steps:** I recommend 30-40, 60-80, and 120-150 (around 100, I think it's not well)
+* **Steps:** I recommend 30-45 (You can use higher, but many times do not have a big difference)
 * **Sampler:** I developed it with DPM++ 2S a Karras, so I recommend this sampler (but others also work fine)
 * **Sizes:**
   **Medium shot:** 512x512, 512x768, 512x904
